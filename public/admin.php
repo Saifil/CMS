@@ -58,7 +58,7 @@
             <div class="row" style="min-height: 350px;">
                 <div class="col-md-4">
                     <div class="list-group list-group-flush">
-                        <a href="#" class="list-group-item">Manage Website Content</a>
+                        <a href="manage_content.php" class="list-group-item">Manage Website Content</a>
                         <a href="#" class="list-group-item">Manage Admin User</a>
                         <a href="#" class="list-group-item">Logout</a>
                     </div>

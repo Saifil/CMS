@@ -21,7 +21,7 @@
 
     <!--Copyright-->
     <div class="footer-copyright py-3 text-center" style="margin-bottom:5px;">
-        © 2018 Copyright:
+        © <?php echo date("Y")?> Copyright:
         <a href=""> MDBootstrap.com </a>
     </div>
     <!--/Copyright-->

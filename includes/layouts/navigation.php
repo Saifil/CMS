@@ -6,7 +6,12 @@
 
     <!--list start-->
     <ul class="list-unstyled components">
-        <p>Site Content</p>
+<!--        <p>Site Content</p>-->
+
+        <ul class="list-unstyled components">
+            <li><a href="admin.php">&larr; Main menu</a></li>
+        </ul>
+
         <?php //get all the subjects
         $result = find_all_subjects();
 

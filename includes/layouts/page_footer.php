@@ -1,4 +1,7 @@
 <footer class="container-fluid page-footer font-small ">
+
+    <hr class="clearfix d-md-none rgba-white-light" >
+
     <!--Grid row-->
     <div class="row d-flex text-center text-justify-center">
 

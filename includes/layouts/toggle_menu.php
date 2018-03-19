@@ -7,7 +7,7 @@
             </button>
         </div>
 
-        <div class="col-sm-6" id="bs-example-navbar-collapse-1">
+        <div class="col-sm-6" id="bs-example-navbar-collapse-1" style="display:inline-block;"">
             <h3 style="text-align:right;color:#5fc0dd;">Widget Corp</h3>
         </div>
     </div>
